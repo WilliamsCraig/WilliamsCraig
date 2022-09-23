@@ -2,7 +2,7 @@
 - 👀 I’m interested in Cyber Security and Data Analysis
 - 🌱 I’ve recently completed Certificate IV in Cyber Security 2022
 - 💞️ I’m now looking for a job to work on and I am open to offers $$$
-- 📫 You can reach me @ https://www.linkedin.com/in/craigwilliamsbionicpc/
+- 📫 Contact me @ https://www.linkedin.com/in/craigwilliamsbionicpc/
 
 <!---
 WilliamsCraig/WilliamsCraig is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
