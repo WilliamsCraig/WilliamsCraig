@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Craig
-- 👀 I’m interested in Cyber Security and data analysis
+- 👀 I’m interested in Cyber Security and Data Analysis
 - 🌱 I’ve recently completed Certificate IV in Cyber Security 2022
 - 💞️ I’m now looking for a job to work on and I am open to offers $$$
 - 📫 You can reach me @ https://www.linkedin.com/in/craigwilliamsbionicpc/
