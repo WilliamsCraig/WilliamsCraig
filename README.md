@@ -5,6 +5,7 @@
 - 📫 Contact me @ LinkedIn https://www.linkedin.com/in/craigwilliamsbionicpc/  
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/Craig.Williams.png" alt="TryHackMe">  
+TryHackMe  https://tryhackme.com/p/Craig.Williams
 
 <!---
 WilliamsCraig/WilliamsCraig is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
