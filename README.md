@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Craig
-- 👀 I’m passionate about Cyber Security, Data Analysis and Technology
+- 👀 I’m passionate about Cyber Security, Data Analysis, Technology and Family
 - 🌱 I’ve recently completed Certificate IV in Cyber Security 2022
-- 💞️ I’m now looking for work and I am open to offers!!!
+- 💞️ I’m now looking for work and I am open to offers!!! 
 - 📫 Contact me @ LinkedIn https://www.linkedin.com/in/craigwilliamsbionicpc/  
 - TryHackMe https://tryhackme.com/p/Craig.Williams <img src="https://tryhackme-badges.s3.amazonaws.com/Craig.Williams.png" alt="TryHackMe"> 
 
