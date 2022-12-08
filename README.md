@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Craig
 - 👀 I’m passionate about Cyber Security, Data Analysis, Technology and my Family
-- 🌱 I’ve recently completed Certificate IV in Cyber Security 2022
+- 🌱 I’ve graduated from Certificate IV in Cyber Security at TAFE NSW in 2022 
 - 💞️ I’m now looking for work and I am open to offers!!! 
 - 📫 Contact me @ LinkedIn https://www.linkedin.com/in/craigwilliamsbionicpc/  or via
 - TryHackMe https://tryhackme.com/p/Craig.Williams 
